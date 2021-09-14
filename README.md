@@ -1,6 +1,6 @@
 # Keeper-App
 
-My first full-stack project. A ~very~ basic "to-do list app" implementing the frontend with the React JSX framework and the backend with MongoDB database.
+My first full-stack project. A __very__ basic "to-do list app" implementing the frontend with the React JSX framework and the backend with MongoDB database.
 
 ### Screenshots
 
